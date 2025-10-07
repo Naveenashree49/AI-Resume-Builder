@@ -10,7 +10,8 @@ Built completely using *Firebase Studio* and deployed on *Firebase Hosting*.
 - Simple, user-friendly interface
 ## Tech Stack
 - Firebase Studio  
-- Firebase Hosting  
+- Firebase Hosting
+- Google Gemini API (Gemini-2.5 flash)
 
 ## Live Website
 👉 [Visit the App Here](https://studio--studio-3555992419-8c0ac.us-central1.hosted.app/)
