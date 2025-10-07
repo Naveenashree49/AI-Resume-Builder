@@ -4,7 +4,7 @@ An AI-powered resume builder web app that helps users create professional resume
 Built completely using *Firebase Studio* and deployed on *Firebase Hosting*.
 
 ## Features
-- AI-generated resume content suggestions  
+- AI optimized ATS friendly resume builder
 - Customizable templates
 - Real-time preview  
 - Simple, user-friendly interface
